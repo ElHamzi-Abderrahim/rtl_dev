@@ -1,1 +1,4 @@
 
+[submodule "fifo"]
+	path = fifo
+	url = https://github.com/ElHamzi-Abderrahim/fifo.git
